@@ -32,5 +32,5 @@ context.fillStyle = "#6A0888";
 
 context.beginPath();
 
-context.fillRect(180,event.gamma, 100, 50);
+context.fillRect(event.gamma,150, 100, 50);
 }
