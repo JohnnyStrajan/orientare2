@@ -26,7 +26,7 @@ var latura_patrat = 50;
 
 
 
-context.clearRect(0, 0, c.width, c.height);
+context.clearRect(0, 0, canvas.width, canvas.height);
 
 context.fillStyle = "#6A0888";
 
